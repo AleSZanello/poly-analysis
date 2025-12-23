@@ -1,0 +1,60 @@
+{
+  "slug": "eth-updown-15m-1766008800",
+  "wallet": "0x6031b6eed1c97e853c6e0f03ad3ce3529351f96d",
+  "exported_at": "2025-12-23T12:37:23.261049",
+  "summary": {
+    "resolution": "NO",
+    "total_trades": 1,
+    "time_range": {
+      "first_trade": "2025-12-17 19:01:57",
+      "last_trade": "2025-12-17 19:01:57",
+      "first_trade_ts": 1766008917,
+      "last_trade_ts": 1766008917
+    },
+    "final_position": {
+      "remaining_yes_shares": 0,
+      "remaining_no_shares": 10.0
+    },
+    "costs": {
+      "yes_buy_shares": 0,
+      "yes_buy_cost": 0,
+      "yes_sell_shares": 0,
+      "yes_sell_cost": 0,
+      "no_buy_shares": 10.0,
+      "no_buy_cost": 7.0,
+      "no_sell_shares": 0,
+      "no_sell_cost": 0
+    },
+    "pnl": {
+      "total_spent": 7.0,
+      "final_value": 10.0,
+      "pnl": 3.0,
+      "pnl_percent": 42.86
+    }
+  },
+  "trades": [
+    {
+      "trade_number": 1,
+      "timestamp": 1766008917,
+      "datetime": "2025-12-17 19:01:57",
+      "action": "BUY",
+      "outcome": "NO",
+      "price": 0.7,
+      "price_cents": 70.0,
+      "shares": 10.0,
+      "cost_usd": 7.0,
+      "transaction_hash": "0x44772c50bc4f17433e9a29d10db0696c78bfc3985d3285267f9c493ed74441ae",
+      "running_yes_shares": 0,
+      "running_no_shares": 10.0,
+      "running_yes_cost": 0,
+      "running_no_cost": 7.0,
+      "running_total_exposure": 7.0,
+      "raw": {
+        "proxyWallet": "0x6031b6eed1c97e853c6e0f03ad3ce3529351f96d",
+        "asset": "96445176004234640629854032096843676469372214683731687120262215105073885527888",
+        "conditionId": "0xc267ef40c72f88182c700661f7b4d737f1f67ecd07eebedac03274f589d2eeed",
+        "outcomeIndex": 1
+      }
+    }
+  ]
+}

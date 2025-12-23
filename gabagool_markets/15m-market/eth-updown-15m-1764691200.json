@@ -1,0 +1,129 @@
+{
+  "slug": "eth-updown-15m-1764691200",
+  "wallet": "0x6031b6eed1c97e853c6e0f03ad3ce3529351f96d",
+  "exported_at": "2025-12-23T12:37:22.757098",
+  "summary": {
+    "resolution": "YES",
+    "total_trades": 4,
+    "time_range": {
+      "first_trade": "2025-12-02 13:02:50",
+      "last_trade": "2025-12-02 13:07:46",
+      "first_trade_ts": 1764691370,
+      "last_trade_ts": 1764691666
+    },
+    "final_position": {
+      "remaining_yes_shares": 0,
+      "remaining_no_shares": 39.0
+    },
+    "costs": {
+      "yes_buy_shares": 0,
+      "yes_buy_cost": 0,
+      "yes_sell_shares": 0,
+      "yes_sell_cost": 0,
+      "no_buy_shares": 39.0,
+      "no_buy_cost": 9.41,
+      "no_sell_shares": 0,
+      "no_sell_cost": 0
+    },
+    "pnl": {
+      "total_spent": 9.41,
+      "final_value": 0.0,
+      "pnl": -9.41,
+      "pnl_percent": -100.0
+    }
+  },
+  "trades": [
+    {
+      "trade_number": 1,
+      "timestamp": 1764691370,
+      "datetime": "2025-12-02 13:02:50",
+      "action": "BUY",
+      "outcome": "NO",
+      "price": 0.25,
+      "price_cents": 25.0,
+      "shares": 10.0,
+      "cost_usd": 2.5,
+      "transaction_hash": "0xf59e5a34e7fde544f0e0b8a845033ab4069fcf6329b52e6fbdfa22ddadbe6e59",
+      "running_yes_shares": 0,
+      "running_no_shares": 10.0,
+      "running_yes_cost": 0,
+      "running_no_cost": 2.5,
+      "running_total_exposure": 2.5,
+      "raw": {
+        "proxyWallet": "0x6031b6eed1c97e853c6e0f03ad3ce3529351f96d",
+        "asset": "30272201115015047366544220697368849648142657540490559480297769035797605559383",
+        "conditionId": "0x6a77428196e3144f08db2a4234afcd6cd9abc69143d2d02577e4299bce161dc0",
+        "outcomeIndex": 1
+      }
+    },
+    {
+      "trade_number": 2,
+      "timestamp": 1764691370,
+      "datetime": "2025-12-02 13:02:50",
+      "action": "BUY",
+      "outcome": "NO",
+      "price": 0.25,
+      "price_cents": 25.0,
+      "shares": 10.0,
+      "cost_usd": 2.5,
+      "transaction_hash": "0x2ef67acd85924c1801c20a6a6633a92c463a64046890fe73de7e1bb19c9fdd98",
+      "running_yes_shares": 0,
+      "running_no_shares": 20.0,
+      "running_yes_cost": 0,
+      "running_no_cost": 5.0,
+      "running_total_exposure": 5.0,
+      "raw": {
+        "proxyWallet": "0x6031b6eed1c97e853c6e0f03ad3ce3529351f96d",
+        "asset": "30272201115015047366544220697368849648142657540490559480297769035797605559383",
+        "conditionId": "0x6a77428196e3144f08db2a4234afcd6cd9abc69143d2d02577e4299bce161dc0",
+        "outcomeIndex": 1
+      }
+    },
+    {
+      "trade_number": 3,
+      "timestamp": 1764691536,
+      "datetime": "2025-12-02 13:05:36",
+      "action": "BUY",
+      "outcome": "NO",
+      "price": 0.19,
+      "price_cents": 19.0,
+      "shares": 9.0,
+      "cost_usd": 1.71,
+      "transaction_hash": "0x6d36404cc2d11f42ee548970d460782aeaf8137322ac1be706d313fd29e6f47c",
+      "running_yes_shares": 0,
+      "running_no_shares": 29.0,
+      "running_yes_cost": 0,
+      "running_no_cost": 6.71,
+      "running_total_exposure": 6.71,
+      "raw": {
+        "proxyWallet": "0x6031b6eed1c97e853c6e0f03ad3ce3529351f96d",
+        "asset": "30272201115015047366544220697368849648142657540490559480297769035797605559383",
+        "conditionId": "0x6a77428196e3144f08db2a4234afcd6cd9abc69143d2d02577e4299bce161dc0",
+        "outcomeIndex": 1
+      }
+    },
+    {
+      "trade_number": 4,
+      "timestamp": 1764691666,
+      "datetime": "2025-12-02 13:07:46",
+      "action": "BUY",
+      "outcome": "NO",
+      "price": 0.27,
+      "price_cents": 27.0,
+      "shares": 10.0,
+      "cost_usd": 2.7,
+      "transaction_hash": "0xc68ac52301d593ba29e1f54d4a9cf86893a115f8f6818de1cdb6cbb3e082bce3",
+      "running_yes_shares": 0,
+      "running_no_shares": 39.0,
+      "running_yes_cost": 0,
+      "running_no_cost": 9.41,
+      "running_total_exposure": 9.41,
+      "raw": {
+        "proxyWallet": "0x6031b6eed1c97e853c6e0f03ad3ce3529351f96d",
+        "asset": "30272201115015047366544220697368849648142657540490559480297769035797605559383",
+        "conditionId": "0x6a77428196e3144f08db2a4234afcd6cd9abc69143d2d02577e4299bce161dc0",
+        "outcomeIndex": 1
+      }
+    }
+  ]
+}

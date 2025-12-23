@@ -1,0 +1,60 @@
+{
+  "slug": "bitcoin-up-or-down-december-12-3am-et",
+  "wallet": "0x6031b6eed1c97e853c6e0f03ad3ce3529351f96d",
+  "exported_at": "2025-12-23T12:35:40.357320",
+  "summary": {
+    "resolution": "NO",
+    "total_trades": 1,
+    "time_range": {
+      "first_trade": "2025-12-12 05:50:24",
+      "last_trade": "2025-12-12 05:50:24",
+      "first_trade_ts": 1765529424,
+      "last_trade_ts": 1765529424
+    },
+    "final_position": {
+      "remaining_yes_shares": 0,
+      "remaining_no_shares": 13.0
+    },
+    "costs": {
+      "yes_buy_shares": 0,
+      "yes_buy_cost": 0,
+      "yes_sell_shares": 0,
+      "yes_sell_cost": 0,
+      "no_buy_shares": 13.0,
+      "no_buy_cost": 12.22,
+      "no_sell_shares": 0,
+      "no_sell_cost": 0
+    },
+    "pnl": {
+      "total_spent": 12.22,
+      "final_value": 13.0,
+      "pnl": 0.78,
+      "pnl_percent": 6.38
+    }
+  },
+  "trades": [
+    {
+      "trade_number": 1,
+      "timestamp": 1765529424,
+      "datetime": "2025-12-12 05:50:24",
+      "action": "BUY",
+      "outcome": "NO",
+      "price": 0.94,
+      "price_cents": 94.0,
+      "shares": 13.0,
+      "cost_usd": 12.22,
+      "transaction_hash": "0xa164f3419bbd15631b7f4c72cf79f6ad8451b8bbd65f11bfbc8b856c4dc6fbd4",
+      "running_yes_shares": 0,
+      "running_no_shares": 13.0,
+      "running_yes_cost": 0,
+      "running_no_cost": 12.22,
+      "running_total_exposure": 12.22,
+      "raw": {
+        "proxyWallet": "0x6031b6eed1c97e853c6e0f03ad3ce3529351f96d",
+        "asset": "46669585590388878741548950245685611404461145617816899756672292330978095188457",
+        "conditionId": "0x9ceb7776b46a016526eb69256b7a397cd2554ba17b2c65c8a7662af7b0ee0151",
+        "outcomeIndex": 1
+      }
+    }
+  ]
+}

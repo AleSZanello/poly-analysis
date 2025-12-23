@@ -1,0 +1,382 @@
+{
+  "slug": "bitcoin-up-or-down-december-21-9am-et",
+  "wallet": "0x6031b6eed1c97e853c6e0f03ad3ce3529351f96d",
+  "exported_at": "2025-12-23T12:35:41.053726",
+  "summary": {
+    "resolution": "YES",
+    "total_trades": 15,
+    "time_range": {
+      "first_trade": "2025-12-21 11:10:37",
+      "last_trade": "2025-12-21 11:39:57",
+      "first_trade_ts": 1766326237,
+      "last_trade_ts": 1766327997
+    },
+    "final_position": {
+      "remaining_yes_shares": 83.0,
+      "remaining_no_shares": 162.18
+    },
+    "costs": {
+      "yes_buy_shares": 83.0,
+      "yes_buy_cost": 66.87,
+      "yes_sell_shares": 0,
+      "yes_sell_cost": 0,
+      "no_buy_shares": 162.18,
+      "no_buy_cost": 33.8135,
+      "no_sell_shares": 0,
+      "no_sell_cost": 0
+    },
+    "pnl": {
+      "total_spent": 100.6835,
+      "final_value": 83.0,
+      "pnl": -17.6835,
+      "pnl_percent": -17.56
+    }
+  },
+  "trades": [
+    {
+      "trade_number": 1,
+      "timestamp": 1766326237,
+      "datetime": "2025-12-21 11:10:37",
+      "action": "BUY",
+      "outcome": "NO",
+      "price": 0.3,
+      "price_cents": 30.0,
+      "shares": 8.61,
+      "cost_usd": 2.583,
+      "transaction_hash": "0xd2c93afdefe385ad4544350f2c1938dd5af9b0648a5fdc5c46b5310e33e870bf",
+      "running_yes_shares": 0,
+      "running_no_shares": 8.61,
+      "running_yes_cost": 0,
+      "running_no_cost": 2.583,
+      "running_total_exposure": 2.583,
+      "raw": {
+        "proxyWallet": "0x6031b6eed1c97e853c6e0f03ad3ce3529351f96d",
+        "asset": "23574704782676083525464877169932934583702492713299026450165099659716130586084",
+        "conditionId": "0x6c48e16cec9cea61252586b7faefd4d1c5b2d0514208e3d5feb52d60bb6ed468",
+        "outcomeIndex": 1
+      }
+    },
+    {
+      "trade_number": 2,
+      "timestamp": 1766326237,
+      "datetime": "2025-12-21 11:10:37",
+      "action": "BUY",
+      "outcome": "NO",
+      "price": 0.2975,
+      "price_cents": 29.75,
+      "shares": 20.0,
+      "cost_usd": 5.95,
+      "transaction_hash": "0x35a651ac737df6ba92034c0f749cadd854395046bad79b53670f33d958ee9d15",
+      "running_yes_shares": 0,
+      "running_no_shares": 28.61,
+      "running_yes_cost": 0,
+      "running_no_cost": 8.533,
+      "running_total_exposure": 8.533,
+      "raw": {
+        "proxyWallet": "0x6031b6eed1c97e853c6e0f03ad3ce3529351f96d",
+        "asset": "23574704782676083525464877169932934583702492713299026450165099659716130586084",
+        "conditionId": "0x6c48e16cec9cea61252586b7faefd4d1c5b2d0514208e3d5feb52d60bb6ed468",
+        "outcomeIndex": 1
+      }
+    },
+    {
+      "trade_number": 3,
+      "timestamp": 1766326253,
+      "datetime": "2025-12-21 11:10:53",
+      "action": "BUY",
+      "outcome": "NO",
+      "price": 0.27,
+      "price_cents": 27.0,
+      "shares": 14.9,
+      "cost_usd": 4.023,
+      "transaction_hash": "0x87a1925317f3d5320170af822a5b467997b65352ba57b765271f4bd0822a2ed1",
+      "running_yes_shares": 0,
+      "running_no_shares": 43.51,
+      "running_yes_cost": 0,
+      "running_no_cost": 12.556,
+      "running_total_exposure": 12.556,
+      "raw": {
+        "proxyWallet": "0x6031b6eed1c97e853c6e0f03ad3ce3529351f96d",
+        "asset": "23574704782676083525464877169932934583702492713299026450165099659716130586084",
+        "conditionId": "0x6c48e16cec9cea61252586b7faefd4d1c5b2d0514208e3d5feb52d60bb6ed468",
+        "outcomeIndex": 1
+      }
+    },
+    {
+      "trade_number": 4,
+      "timestamp": 1766326361,
+      "datetime": "2025-12-21 11:12:41",
+      "action": "BUY",
+      "outcome": "NO",
+      "price": 0.25,
+      "price_cents": 25.0,
+      "shares": 18.67,
+      "cost_usd": 4.6675,
+      "transaction_hash": "0xe1002825bb536d891fcd31d7872127f95f902d8bdf4d212c73027209482b7cdb",
+      "running_yes_shares": 0,
+      "running_no_shares": 62.18,
+      "running_yes_cost": 0,
+      "running_no_cost": 17.2235,
+      "running_total_exposure": 17.2235,
+      "raw": {
+        "proxyWallet": "0x6031b6eed1c97e853c6e0f03ad3ce3529351f96d",
+        "asset": "23574704782676083525464877169932934583702492713299026450165099659716130586084",
+        "conditionId": "0x6c48e16cec9cea61252586b7faefd4d1c5b2d0514208e3d5feb52d60bb6ed468",
+        "outcomeIndex": 1
+      }
+    },
+    {
+      "trade_number": 5,
+      "timestamp": 1766326587,
+      "datetime": "2025-12-21 11:16:27",
+      "action": "BUY",
+      "outcome": "YES",
+      "price": 0.77,
+      "price_cents": 77.0,
+      "shares": 20.0,
+      "cost_usd": 15.4,
+      "transaction_hash": "0x888c5029d609b3705589d64b5f32b39735ec65b7603da4d61fc21629871fbc77",
+      "running_yes_shares": 20.0,
+      "running_no_shares": 62.18,
+      "running_yes_cost": 15.4,
+      "running_no_cost": 17.2235,
+      "running_total_exposure": 32.6235,
+      "raw": {
+        "proxyWallet": "0x6031b6eed1c97e853c6e0f03ad3ce3529351f96d",
+        "asset": "33648243532022415562903300961206846243837569344305995206905756389799266747187",
+        "conditionId": "0x6c48e16cec9cea61252586b7faefd4d1c5b2d0514208e3d5feb52d60bb6ed468",
+        "outcomeIndex": 0
+      }
+    },
+    {
+      "trade_number": 6,
+      "timestamp": 1766326669,
+      "datetime": "2025-12-21 11:17:49",
+      "action": "BUY",
+      "outcome": "YES",
+      "price": 0.78,
+      "price_cents": 78.0,
+      "shares": 20.0,
+      "cost_usd": 15.6,
+      "transaction_hash": "0xe6432e16738565095d2b74f3b67505c9a616754fd467b6d964c553516d2593b3",
+      "running_yes_shares": 40.0,
+      "running_no_shares": 62.18,
+      "running_yes_cost": 31.0,
+      "running_no_cost": 17.2235,
+      "running_total_exposure": 48.2235,
+      "raw": {
+        "proxyWallet": "0x6031b6eed1c97e853c6e0f03ad3ce3529351f96d",
+        "asset": "33648243532022415562903300961206846243837569344305995206905756389799266747187",
+        "conditionId": "0x6c48e16cec9cea61252586b7faefd4d1c5b2d0514208e3d5feb52d60bb6ed468",
+        "outcomeIndex": 0
+      }
+    },
+    {
+      "trade_number": 7,
+      "timestamp": 1766327017,
+      "datetime": "2025-12-21 11:23:37",
+      "action": "BUY",
+      "outcome": "YES",
+      "price": 0.86,
+      "price_cents": 86.0,
+      "shares": 20.0,
+      "cost_usd": 17.2,
+      "transaction_hash": "0x944aa7ed850b936b8b5a4ea4cafffb3d632d35a905862d95ad82be8508b6d65f",
+      "running_yes_shares": 60.0,
+      "running_no_shares": 62.18,
+      "running_yes_cost": 48.2,
+      "running_no_cost": 17.2235,
+      "running_total_exposure": 65.4235,
+      "raw": {
+        "proxyWallet": "0x6031b6eed1c97e853c6e0f03ad3ce3529351f96d",
+        "asset": "33648243532022415562903300961206846243837569344305995206905756389799266747187",
+        "conditionId": "0x6c48e16cec9cea61252586b7faefd4d1c5b2d0514208e3d5feb52d60bb6ed468",
+        "outcomeIndex": 0
+      }
+    },
+    {
+      "trade_number": 8,
+      "timestamp": 1766327209,
+      "datetime": "2025-12-21 11:26:49",
+      "action": "BUY",
+      "outcome": "NO",
+      "price": 0.25,
+      "price_cents": 25.0,
+      "shares": 20.0,
+      "cost_usd": 5.0,
+      "transaction_hash": "0x3f59e1681fcfee40c29d130b380a42fbac9b1f52e13f82ca2160bee14ebc4b8c",
+      "running_yes_shares": 60.0,
+      "running_no_shares": 82.18,
+      "running_yes_cost": 48.2,
+      "running_no_cost": 22.2235,
+      "running_total_exposure": 70.4235,
+      "raw": {
+        "proxyWallet": "0x6031b6eed1c97e853c6e0f03ad3ce3529351f96d",
+        "asset": "23574704782676083525464877169932934583702492713299026450165099659716130586084",
+        "conditionId": "0x6c48e16cec9cea61252586b7faefd4d1c5b2d0514208e3d5feb52d60bb6ed468",
+        "outcomeIndex": 1
+      }
+    },
+    {
+      "trade_number": 9,
+      "timestamp": 1766327209,
+      "datetime": "2025-12-21 11:26:49",
+      "action": "BUY",
+      "outcome": "NO",
+      "price": 0.25,
+      "price_cents": 25.0,
+      "shares": 20.0,
+      "cost_usd": 5.0,
+      "transaction_hash": "0x66ef9bc934dadc474b0a98ef1ee4419b30dc4da376ccc9f041c0c6f678cf212c",
+      "running_yes_shares": 60.0,
+      "running_no_shares": 102.18,
+      "running_yes_cost": 48.2,
+      "running_no_cost": 27.2235,
+      "running_total_exposure": 75.4235,
+      "raw": {
+        "proxyWallet": "0x6031b6eed1c97e853c6e0f03ad3ce3529351f96d",
+        "asset": "23574704782676083525464877169932934583702492713299026450165099659716130586084",
+        "conditionId": "0x6c48e16cec9cea61252586b7faefd4d1c5b2d0514208e3d5feb52d60bb6ed468",
+        "outcomeIndex": 1
+      }
+    },
+    {
+      "trade_number": 10,
+      "timestamp": 1766327223,
+      "datetime": "2025-12-21 11:27:03",
+      "action": "BUY",
+      "outcome": "NO",
+      "price": 0.29,
+      "price_cents": 29.0,
+      "shares": 5.0,
+      "cost_usd": 1.45,
+      "transaction_hash": "0x774dd25d9e21bff30841b4c5518acd3601b4b11abb8ff86c7b25e0e13cf0525d",
+      "running_yes_shares": 60.0,
+      "running_no_shares": 107.18,
+      "running_yes_cost": 48.2,
+      "running_no_cost": 28.6735,
+      "running_total_exposure": 76.8735,
+      "raw": {
+        "proxyWallet": "0x6031b6eed1c97e853c6e0f03ad3ce3529351f96d",
+        "asset": "23574704782676083525464877169932934583702492713299026450165099659716130586084",
+        "conditionId": "0x6c48e16cec9cea61252586b7faefd4d1c5b2d0514208e3d5feb52d60bb6ed468",
+        "outcomeIndex": 1
+      }
+    },
+    {
+      "trade_number": 11,
+      "timestamp": 1766327245,
+      "datetime": "2025-12-21 11:27:25",
+      "action": "BUY",
+      "outcome": "YES",
+      "price": 0.71,
+      "price_cents": 71.0,
+      "shares": 5.0,
+      "cost_usd": 3.55,
+      "transaction_hash": "0x59958beac9b7cda73242f21b6f689a575a7d520151cec545b65e40ec10cc9d81",
+      "running_yes_shares": 65.0,
+      "running_no_shares": 107.18,
+      "running_yes_cost": 51.75,
+      "running_no_cost": 28.6735,
+      "running_total_exposure": 80.4235,
+      "raw": {
+        "proxyWallet": "0x6031b6eed1c97e853c6e0f03ad3ce3529351f96d",
+        "asset": "33648243532022415562903300961206846243837569344305995206905756389799266747187",
+        "conditionId": "0x6c48e16cec9cea61252586b7faefd4d1c5b2d0514208e3d5feb52d60bb6ed468",
+        "outcomeIndex": 0
+      }
+    },
+    {
+      "trade_number": 12,
+      "timestamp": 1766327781,
+      "datetime": "2025-12-21 11:36:21",
+      "action": "BUY",
+      "outcome": "NO",
+      "price": 0.1,
+      "price_cents": 10.0,
+      "shares": 19.0,
+      "cost_usd": 1.9,
+      "transaction_hash": "0x39022ce3376cfbc677e95d1b1763396329525cb4b3b9f56b0d6b9d5c4abb64dc",
+      "running_yes_shares": 65.0,
+      "running_no_shares": 126.18,
+      "running_yes_cost": 51.75,
+      "running_no_cost": 30.5735,
+      "running_total_exposure": 82.3235,
+      "raw": {
+        "proxyWallet": "0x6031b6eed1c97e853c6e0f03ad3ce3529351f96d",
+        "asset": "23574704782676083525464877169932934583702492713299026450165099659716130586084",
+        "conditionId": "0x6c48e16cec9cea61252586b7faefd4d1c5b2d0514208e3d5feb52d60bb6ed468",
+        "outcomeIndex": 1
+      }
+    },
+    {
+      "trade_number": 13,
+      "timestamp": 1766327863,
+      "datetime": "2025-12-21 11:37:43",
+      "action": "BUY",
+      "outcome": "YES",
+      "price": 0.84,
+      "price_cents": 84.0,
+      "shares": 18.0,
+      "cost_usd": 15.12,
+      "transaction_hash": "0xba839790588cd8673db91d8c06d746142c6677d958252c9c2d72ee8852e94240",
+      "running_yes_shares": 83.0,
+      "running_no_shares": 126.18,
+      "running_yes_cost": 66.87,
+      "running_no_cost": 30.5735,
+      "running_total_exposure": 97.4435,
+      "raw": {
+        "proxyWallet": "0x6031b6eed1c97e853c6e0f03ad3ce3529351f96d",
+        "asset": "33648243532022415562903300961206846243837569344305995206905756389799266747187",
+        "conditionId": "0x6c48e16cec9cea61252586b7faefd4d1c5b2d0514208e3d5feb52d60bb6ed468",
+        "outcomeIndex": 0
+      }
+    },
+    {
+      "trade_number": 14,
+      "timestamp": 1766327997,
+      "datetime": "2025-12-21 11:39:57",
+      "action": "BUY",
+      "outcome": "NO",
+      "price": 0.09,
+      "price_cents": 9.0,
+      "shares": 18.0,
+      "cost_usd": 1.62,
+      "transaction_hash": "0x784d85bdbee6b34f9d01b79aa13b50ea04199a223dc07cde69c8287fe76af8ad",
+      "running_yes_shares": 83.0,
+      "running_no_shares": 144.18,
+      "running_yes_cost": 66.87,
+      "running_no_cost": 32.1935,
+      "running_total_exposure": 99.0635,
+      "raw": {
+        "proxyWallet": "0x6031b6eed1c97e853c6e0f03ad3ce3529351f96d",
+        "asset": "23574704782676083525464877169932934583702492713299026450165099659716130586084",
+        "conditionId": "0x6c48e16cec9cea61252586b7faefd4d1c5b2d0514208e3d5feb52d60bb6ed468",
+        "outcomeIndex": 1
+      }
+    },
+    {
+      "trade_number": 15,
+      "timestamp": 1766327997,
+      "datetime": "2025-12-21 11:39:57",
+      "action": "BUY",
+      "outcome": "NO",
+      "price": 0.09,
+      "price_cents": 9.0,
+      "shares": 18.0,
+      "cost_usd": 1.62,
+      "transaction_hash": "0x2251fa42a6425243457bc266ed825d76f6899739ee92c1728c4b76e6b42c28a0",
+      "running_yes_shares": 83.0,
+      "running_no_shares": 162.18,
+      "running_yes_cost": 66.87,
+      "running_no_cost": 33.8135,
+      "running_total_exposure": 100.6835,
+      "raw": {
+        "proxyWallet": "0x6031b6eed1c97e853c6e0f03ad3ce3529351f96d",
+        "asset": "23574704782676083525464877169932934583702492713299026450165099659716130586084",
+        "conditionId": "0x6c48e16cec9cea61252586b7faefd4d1c5b2d0514208e3d5feb52d60bb6ed468",
+        "outcomeIndex": 1
+      }
+    }
+  ]
+}
