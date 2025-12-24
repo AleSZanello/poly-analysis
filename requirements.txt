@@ -1,0 +1,4 @@
+# Requirements for analyze_scripy.py
+# Install: pip install -r script_requirements.txt
+
+requests>=2.28.0
