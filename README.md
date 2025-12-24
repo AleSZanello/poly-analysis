@@ -186,3 +186,7 @@ Each market exports a detailed JSON file:
 ## License
 
 MIT
+
+## Acknowledgements
+
+This script was created inspired on the script shared by @Jayden_Mementor in Telegram https://t.me/c/3429385726/10389
